@@ -1,8 +1,14 @@
 # sandbox
 
-* Level 1
-    * Level 2
-        * Level 3
-            * Level 4
-                * Level 5
-                    * Level 6
+# sandbox
+
+* Root
+    * 4 spaces
+	* Tab
+        * 8 spaces
+            * 12 spaces
+	* Tab
+	    * Tab, 4 spaces
+	        * Tab, 8 spaces
+			* 3 Tabs
+		* 2 Tabs
